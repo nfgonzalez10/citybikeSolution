@@ -1,0 +1,21 @@
+.selectHour{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.selectHour__header{
+    margin: 2rem;
+}
+.selectHour__body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.selectHour__button{
+    width: 25rem;
+    height: 2rem;
+    align-self: center;
+    margin-top: 2%;
+}
